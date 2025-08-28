@@ -9,7 +9,7 @@ I am a Junior Java Developer, a Python and a Front-end student 📚
 
 <img align="right" height="250" width="320" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubal-agrawal/)](https://www.linkedin.com/in/isabella-de-sanctis-174a01141/) , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rubalagrawalru@gmail.com.com)](mailto:rubalagrawalru@gmail.com)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubal-agrawal/)](https://www.linkedin.com/in/isabella-de-sanctis-174a01141/) , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:desanctisisabella95@gmail.com)](mailto:desanctisisabella95@gmail.com)
 
 <br>
 <p align="left" >
