@@ -7,7 +7,7 @@ I am a Junior Java Developer, a Python and a Front-end student 📚
 - 🌱 I’m currently learning Java, Front-end, and Python.
 - 👯 I’m looking for a work as Junior Java Developer.
 
-<img align="right" height="250" width="320" alt="GIF" src="https://www.ecosia.org/images?q=animated+image++software+developer+girl+with+short+hair#id=040CFE220A7F03AC37BD85EB90F4F4613442BA12" />
+<img align="right" height="250" width="320" alt="GIF" src="C:\Users\desan\Downloads\download.html" />
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabella-de-sanctis-174a01141/)](https://www.linkedin.com/in/isabella-de-sanctis-174a01141/) , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:desanctisisabella95@gmail.com)](mailto:desanctisisabella95@gmail.com)
 
