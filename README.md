@@ -4,7 +4,7 @@
 I am a Junior Java Developer, a Python and a Front-end student 📚
 
 - 🔭 I’m currently working on a Full Stack project.
-- 🌱 I’m currently learning Front-end and Python.
+- 🌱 I’m currently learning Java, Front-end, and Python.
 - 👯 I’m looking for a work as Junior Java Developer.
 
 <img align="right" height="250" width="320" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
