@@ -1,10 +1,10 @@
 <h1 align = "Center" >Hello There 👋 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Isabella95S" alt="isabella95s"  /> </p>
 
-I am a Junior Java Developer, a Python and a Front-end student 📚
+I'm a junior Java developer, a student of Python, networks, and front-end development. 📚
 
 - 🔭 I’m currently working on a Full Stack project.
-- 🌱 I’m currently learning Java, Front-end, and Python.
+- 🌱 I’m currently learning Java, Front-end, Linux and Python.
 - 👯 I’m looking for a work as Junior Java Developer.
 
 <img align="right" height="250" width="320" alt="GIF" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" />
